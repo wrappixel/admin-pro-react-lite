@@ -1,11 +1,37 @@
-# xtreme-react-lite
+# adminpro-react-lite
 
-<a href="https://wrappixel.com">
-<img src="https://wrappixel.com/wp-content/uploads/2017/03/wp-updated-logo.jpg" /></a>
-<br/>
+<h4><a href="https://wrappixel.com/demos/free-admin-templates/adminpro-react-lite/main/#/dashboard">Free Version Demo Link</a></h4>
 
-<h3>React Version of Xtreme admin, you can use it for your personal project, Footer backlink required, it must be redirect to our wrappixel.com</h3>
+## Pro Version
 
-Check the live preview : 
+<a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/"><img src="https://www.wrappixel.com/wp-content/uploads/edd/2019/07/adminpro-react-redux-template-wp.jpg"/></a><br/>
 
-<a href="https://wrappixel.com/demos/free-admin-templates/xtreme-reactadmin-lite/landingpage/">Demo </a>
+<h4><a href="https://www.wrappixel.com/demos/react-admin-templates/adminpro-react-admin/main/dashboards/analytical">Demo</a></h4>
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run eject
+```
+
+### Customize configuration
+See [Configuration Reference](https://reactjs.org).
