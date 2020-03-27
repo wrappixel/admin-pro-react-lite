@@ -8803,7 +8803,8 @@ Preloader
   .topbar .nav-toggler,
   .topbar .topbartoggler {
     color: #fff;
-    padding: 0 15px; }
+    padding: 0 15px;
+    border: 0; }
 
 .search-box .app-search {
   z-index: 110;
@@ -8821,7 +8822,8 @@ Preloader
     position: absolute;
     top: 23px;
     cursor: pointer;
-    right: 20px; }
+    right: 20px;
+    border: 0; }
 
 /*******************
 Megamenu

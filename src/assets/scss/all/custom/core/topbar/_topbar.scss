@@ -51,6 +51,7 @@
   .topbartoggler {
     color: $theme-light;
     padding: 0 15px;
+    border: 0;
   }
 }
 
@@ -75,6 +76,7 @@
       top: 23px;
       cursor: pointer;
       right: 20px;
+      border: 0;
     }
   }
 }
