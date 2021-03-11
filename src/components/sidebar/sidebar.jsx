@@ -20,7 +20,7 @@ const Sidebar = (props) => {
     }
 
     return (
-        <aside className="left-sidebar" id="sidebarbg" data-sidebarbg="skin6" onMouseEnter={expandLogo.bind(null)} onMouseLeave={expandLogo.bind(null)}>
+        <aside className="left-sidebar" id="sidebarbg" data-sidebarbg="skin5" onMouseEnter={expandLogo.bind(null)} onMouseLeave={expandLogo.bind(null)}>
             <div className="scroll-sidebar">
                 <PerfectScrollbar className="sidebar-nav">
                     {/*--------------------------------------------------------------------------------*/}
