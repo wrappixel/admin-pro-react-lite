@@ -81,7 +81,7 @@ See [Configuration Reference](https://reactjs.org).
 <h2>Resources</h2>
 <ul>
 <li>  
-  Live Demo: <a href="https://wrappixel.com/demos/free-admin-templates/adminpro-react-lite/main/" rel="nofollow">https://wrappixel.com/demos/free-admin-templates/adminpro-react-lite/main/</a>
+  Live Demo: <a href="https://demos.wrappixel.com/free-admin-templates/react/adminpro-react-free/main/#/dashboard" rel="nofollow">https://demos.wrappixel.com/free-admin-templates/react/adminpro-react-free/main/#/dashboard</a>
 </li>
 <li>
     Download Page: <a href="https://www.wrappixel.com/templates/adminpro-react-admin-lite/" rel="nofollow">
@@ -115,7 +115,7 @@ See [Configuration Reference](https://reactjs.org).
 </a>
 <p>
    Checkout our premium version of AdminPro React Admin for lots more features and ready to use page templates.<br>
-   <a href="https://www.wrappixel.com/demos/react-admin-templates/adminpro-react-admin/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/">Download</a>
+   <a href="https://demos.wrappixel.com/premium-admin-templates/react/adminpro-react/landingpage/index.html">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/">Download</a>
 </p>
 
 <!-- Useful Links of Template -->
