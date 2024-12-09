@@ -213,7 +213,7 @@ If you’re  [Searching for Admin Dashboards](https://www.wrappixel.com/template
 
 Visit  Wrappixel  to  [Download Free Admin Panel Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
 
-[Download Admin Panel Dashboards](https://www.wrappixel.com/templates/category/admin-dashboard-templates/)  from Other Marketplaces 👉  [Themeforest](https://themeforest.net/user/wrappixel)  |  [WrapBootstrap](https://wrapbootstrap.com/user/wrappixel)  |  [CreativeMarket](https://creativemarket.com/wrappixel)  |  [Craftwork.Design](http://craftwork.design/)  |  [UIBundle](https://uibundle.com/authors/wrappixel)  |  [Gumroad](https://wrappixel.gumroad.com/)  |  [Codester](https://codester.com/wrappixel)  |  [Codegrape](https://codegrape.com/user/Wrappixel)  |
+[Download Admin Panel Dashboards](https://www.wrappixel.com/templates/category/admin-dashboard-templates/)  from Other Marketplaces 👉  [Themeforest](https://themeforest.net/user/wrappixel)  |  [WrapBootstrap](https://wrapbootstrap.com/user/wrappixel)  |  [CreativeMarket](https://creativemarket.com/wrappixel)  |  [Craftwork.Design](https://craftwork.design/author/wrappixel/)  |  [UIBundle](https://uibundle.com/authors/wrappixel)  |  [Gumroad](https://wrappixel.gumroad.com/)  |  [Codester](https://codester.com/wrappixel)  |  [Codegrape](https://codegrape.com/user/Wrappixel)  |
 
 ### Stay tuned for Admin Templates updates on Social Media👇
 
